@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "314985607641",
+    "project_id": "abart-social-3c96a",
+    "storage_bucket": "abart-social-3c96a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314985607641:android:d9ad069638719c623b69c8",
+        "android_client_info": {
+          "package_name": "com.abart.social"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoC0Uz6EJlArfI5XfHZvDe94XUBAbIS_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      },
+      "admob_app_id": "ca-app-pub-5314613032504136~6295664272"
+    }
+  ],
+  "configuration_version": "1"
+}
